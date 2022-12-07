@@ -1,4 +1,4 @@
-# Neural-Style-Transfer
+# DeepArt - Neural-Style-Transfer
 The seminal work of Gatys et al. demonstrated the power of Convolutional Neural Networks (CNNs) in creating artistic imagery by separating and recombining image content and style. This process of using CNNs to render a content image in different styles is referred to as Neural Style Transfer (NST). NST builds on the key idea that,
 It is possible to separate the style representation and content representations in a CNN, learnt during a computer vision task (for example, an image recognition task).
 
